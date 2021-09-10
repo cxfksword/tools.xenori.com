@@ -1,1 +1,0 @@
-import"./index.a8e54022.js";import{c as o,o as n,a as e,d as r}from"./vendor.eb6b9f08.js";const s={};s.render=function(e,r,s,a,t,d){return n(),o("h2",null,"Hello World!")};const a=e(s);a.use(r),a.mount("#app");
